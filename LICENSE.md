@@ -1,4 +1,4 @@
-# 
+# ultimate bedwars Script offers the most advanced bedwars Script, with god mode and auto-collect. Perfect for dominating any match.
 
 
 
